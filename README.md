@@ -11,4 +11,5 @@ PostgreSQL
 
 Agregame:
 [Facebook](https://www.facebook.com/fernandoR.96RM/),
-[Linkedin](https://www.linkedin.com/in/fernando-rodriguez-9a9aa11a4/)
+[Linkedin](https://www.linkedin.com/in/fernando-rodriguez-9a9aa11a4/),
+[Gmail](dfa.rodriguez@gmail.com)
